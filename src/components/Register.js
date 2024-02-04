@@ -1,7 +1,7 @@
 import Logo from "./Logo";
 import { useState } from "react";
 
-const SERVER_URL = "http://localhost:3001";
+const SERVER_URL = "https://object-recognition-app.onrender.com";
 
 const Register = ({ changePage, inputUserDetails }) => {
   const [firstName, setFirstName] = useState("");

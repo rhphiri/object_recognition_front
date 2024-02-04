@@ -2,7 +2,7 @@ import Logo from "./Logo";
 import { useState } from "react";
 import ImageRecognition from "./ImageRecognition";
 
-const SERVER_URL = "http://localhost:3001";
+const SERVER_URL = "https://object-recognition-app.onrender.com";
 
 const LoggedIn = ({ changePage, userDetails, inputUserDetails }) => {
   const [imageUrl, setImageUrl] = useState("");
