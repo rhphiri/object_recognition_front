@@ -35,14 +35,14 @@ const HomePage = ({ changePage }) => {
             <h1>Welcome to the Object Recognition App.</h1>
             <p>
               This application was designed to recognise objects within an image
-              with the help of an artificial intelligence callled Clarifai.
+              with the help of an artificial intelligence called Clarifai.
             </p>
             <p>
               All you have to do is enter the url of the image you want to be
               analysed, press Detect and this app will do the rest.
             </p>
             <p>
-              In order to make use of this application, create an account? It is
+              In order to make use of this application, create an account. It is
               completely free.
             </p>
             <p>No credit card required.</p>
